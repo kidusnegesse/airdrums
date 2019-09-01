@@ -1,4 +1,4 @@
-# Airdrums
+# Air Drums
 
 This project simulates a drum set using accelerometers connected to an Arduino Uno board. It plays drum sounds by writing drum notes to serial port, which an MIDI interface, such as The Hairless MIDI, is able to receive and output as sound.
 
